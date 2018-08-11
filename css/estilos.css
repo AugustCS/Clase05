@@ -1,0 +1,21 @@
+	div{
+		display: inline-block;
+		vertical-align:top;
+		width:200px;
+		height: 200px;
+		background: red;
+		margin-bottom: 10px;
+	}
+	#cajita1{
+		background:skyblue;
+	}
+	.cajita2{
+		background:blue;
+		height: 300px;
+	}
+
+	.cajita3{
+		background:pink;
+		height:400px;
+	}
+	
